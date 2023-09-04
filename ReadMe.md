@@ -1,4 +1,4 @@
-                                            #                                                                      💫 Hi! I Am Souhardya 
+                                                                        # 💫 Hi! I Am Souhardya 
 🎓 I’m currently pursuing B.Tech in ECE<br>🌱 I’m currently learning Frontend Development<br>💬 Reach me : contact@devdark.cloud<br>⚡ Fun fact : Love to play games
 
 
