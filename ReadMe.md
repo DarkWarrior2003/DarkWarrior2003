@@ -26,8 +26,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="left">
   <a href="https://linkedin.com/in/souhardya-deb-921578254" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"  />
