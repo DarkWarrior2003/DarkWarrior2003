@@ -67,7 +67,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DarkWarrior2003&theme=vision-friendly-dark" height="220" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DarkWarrior2003&theme=vision-friendly-dark" />
 </div>
 
 ###
