@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Souhardya20.Souhardya20&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DarkWarrior2003.DarkWarrior2003&"  />
 </div>
 
 ###
@@ -15,7 +15,6 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
-<hr>
 
 ###
 
@@ -24,7 +23,7 @@
 ###
 
 <h3 align="left">Connect With Me</h3>
-<hr>
+
 ###
 
 <br clear="both">
@@ -44,7 +43,7 @@
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
-<hr>
+
 ###
 
 <div align="left">
@@ -64,7 +63,7 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-<hr>
+
 ###
 
 <div align="center">
