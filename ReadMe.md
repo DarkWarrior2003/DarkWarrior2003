@@ -67,7 +67,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=DarkWarrior2003&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=DarkWarrior2003&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph" />
 </div>
 
 ###
@@ -79,7 +79,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarkWarrior2003&count_private=true&show_icons=true&theme=tokyonight" height="220" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DarkWarrior2003&count_private=true&show_icons=true&theme=tokyonight" height="200" alt="stats graph"  />
 </div>
 
 ###
