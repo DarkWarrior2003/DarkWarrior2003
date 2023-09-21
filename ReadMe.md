@@ -67,7 +67,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DarkWarrior2003&theme=vision-friendly-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DarkWarrior2003&count_private=true&show_icons=true&theme=tokyonight" height="220" alt="stats graph" />
 </div>
 
 ###
