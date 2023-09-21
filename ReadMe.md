@@ -15,6 +15,7 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
+<hr>
 
 ###
 
@@ -23,7 +24,7 @@
 ###
 
 <h3 align="left">Connect With Me</h3>
-
+<hr>
 ###
 
 <br clear="both">
@@ -43,7 +44,7 @@
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
-
+<hr>
 ###
 
 <div align="left">
@@ -63,23 +64,23 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-
+<hr>
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Souhardya20&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=DarkWarrior2003&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Souhardya20&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="183" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DarkWarrior2003&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="183" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Souhardya20&count_private=true&show_icons=true&theme=tokyonight" height="220" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DarkWarrior2003&count_private=true&show_icons=true&theme=tokyonight" height="220" alt="stats graph"  />
 </div>
 
 ###
