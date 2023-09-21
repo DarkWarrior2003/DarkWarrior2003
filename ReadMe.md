@@ -21,7 +21,7 @@
 <p align="left">• 🎓 I’m currently pursuing B.Tech in ECE<br><br>• 🌱 I’m currently learning Frontend Development<br><br>• 💬 Reach me : contact@devdark.cloud<br><br>• ⚡ Fun fact : Love to play games</p>
 
 ###
-<br clear="both">
+
 <h3 align="left">Connect With Me</h3>
 
 ###
@@ -37,7 +37,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="45" height="30" alt="facebook logo"  />
   </a>
 </div>
-<br clear="both">
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -57,7 +56,7 @@
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
 </div>
-<br clear="both">
+
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
